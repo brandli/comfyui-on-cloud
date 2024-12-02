@@ -38,7 +38,7 @@ echo " "
 
 cd ComfyUI
 
-chmod +x install_extensions.sh
+#chmod +x install_extensions.sh
 chmod +x install_checkpoints.sh
 ./install_extensions.sh
 
